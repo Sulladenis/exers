@@ -21,3 +21,5 @@ for n in range(10):
         print('Правельный ответ')
     else:
         print('Неверно ', example, '=', tab[example]) # Иначе вывести правельный ответ
+
+print('The End!')
